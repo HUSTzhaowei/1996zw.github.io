@@ -56,9 +56,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "CS PhD student"
+  avatar : "/assets/images/me.jpg"
+  bio    : "Hi, I'm Wei Zhao, a PhD student in HuaZhong University of Science and Technology(HUST), WuHan, China."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
