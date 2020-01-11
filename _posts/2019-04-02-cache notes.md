@@ -16,7 +16,7 @@ tags:
 如果从LLC中复制了相应的块到上一级cache中，那么上一级cache中的块根据相应的替换策略进行块的替换或者叫驱逐。
 # 2.cache locality
 代码中的一部分指令常常会被经常使用，重复执行
-```
+```ruby
 for (i=0, i<N, i++){
   for (j=0, j<M, j++){
       ... Loop Body ...
