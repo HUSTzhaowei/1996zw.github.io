@@ -19,6 +19,7 @@ tags:
 ./SynopsysInstaller_v3.2.run
 ```
 ![解压得到的文件](https://img-blog.csdnimg.cn/20181110213222131.png)
+
 这样子就可以安装好installer。
 
 **接下来安装HSPICE**,切换到之前解压到的目录，使用命令
@@ -35,6 +36,7 @@ tags:
 ./setup.sh -install_as_root
 ```
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20181110214027958.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3p3cHJvbWlzZQ==,size_16,color_FFFFFF,t_70)
+
 之后一直确定就可以进行安装了。site administrator填Ubuntu（我用的这个，其他的类似吧）的用户名
 
   **现在来安装SCL** ，安装方法与安装Hspice类似，安装好后，在其安装目录中，我的是`synopsys/11.9/linux/bin`使用`./lmgrd` `./lmhostid`等命令，如果提示没有此命令，则表示缺少相应的库，则要使用命令`sudo apt-get install lsb-core`安装库，之后再执行命令即可正常运行。
@@ -68,12 +70,14 @@ alias hsplmd='/usr/synopsys/11.9/linux/bin/lmgrd -c /usr/synopsys/L-2016.06-SP1/
 
 输入指令hsplmd，若结果如下图：
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20181125231226809.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3p3cHJvbWlzZQ==,size_16,color_FFFFFF,t_70)
+
  则表明破解成功
  
  **（2）方法2**
  
  输入指令hspice -I
  ![在这里插入图片描述](https://img-blog.csdnimg.cn/2018112523145789.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3p3cHJvbWlzZQ==,size_16,color_FFFFFF,t_70)
+ 
  出现上图表明也是破解成功，若没有成功，则看下主机名和端口号是否设置正确。
  
  ## 5.跑例子测试
