@@ -61,7 +61,11 @@ author:
   bio    : "Hi, I'm Wei Zhao, a PhD student in HuaZhong University of Science and Technology(HUST), WuHan, China."
   #links:
     - label: "Email: weiz@hust.edu.cn"
-    - label: "Tel: +86 19983665632"  
+      icon: "fab fa-fw fa-zhihu-square"
+      url: 
+    - label: "Tel: +86 19983665632" 
+      icon: "fab fa-fw fa-zhihu-square"
+      url: 
     - label: "zhihu"
       icon: "fab fa-fw fa-zhihu-square"
       url: "https://www.zhihu.com/people/jiu-zhe-yang-ba-49/activities"
