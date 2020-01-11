@@ -1,10 +1,10 @@
 ---
-layout:     post
-title:      cache
-subtitle:   cache
-date:       2019-04-02
-author:     赵威
-catalog: true
+
+title: cache
+
+date: 2019-04-02
+
+categories：blog
 tags:
     - cache
 ---
