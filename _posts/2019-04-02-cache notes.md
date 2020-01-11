@@ -1,11 +1,12 @@
 ---
 title: "Cache basics"
 date: 2019-04-02
-categories
+categories:
   - blog
 tags:
   - cache
 ---
+
 # 1.cache基本概念
 ## 1.1Block
 主存和cache间以及cache和CPU间复制数据的最小大小，通常为64B。
