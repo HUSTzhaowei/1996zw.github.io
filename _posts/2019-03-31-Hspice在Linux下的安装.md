@@ -15,7 +15,7 @@ tags:
 `chmod +x SynopsysInstaller_v3.2.run`
 从而改变文件的权限，之后则可以正常的安装，采用命令
 
-```shell
+```
 ./SynopsysInstaller_v3.2.run
 ```
 ![解压得到的文件](https://img-blog.csdnimg.cn/20181110213222131.png)
@@ -32,7 +32,7 @@ tags:
 这时，查找了一些方法，网上几乎说的全是由于文件在Windows下编辑过，对文件的行结束进行了修改，因此要用到正则表达式来删掉多余的格式，我试了没有什么用，我猜测可能是csh的问题，因此重新安装了`apt-get install csh`
 解决，并用下列命令运行shell脚本
 
-```shell
+```
 ./setup.sh -install_as_root
 ```
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20181110214027958.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3p3cHJvbWlzZQ==,size_16,color_FFFFFF,t_70)
