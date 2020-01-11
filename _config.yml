@@ -59,17 +59,18 @@ author:
   name   : "CS PhD student"
   avatar : "/assets/images/me.jpg"
   bio    : "Hi, I'm Wei Zhao, a PhD student in HuaZhong University of Science and Technology(HUST), WuHan, China."
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://HUSTzhaowei.github.io"
-    - label: "zhihu"
-      icon: "fab fa-fw fa-zhihu-square"
-      url: "https://www.zhihu.com/people/jiu-zhe-yang-ba-49/activities"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-
+  #links:
+   # - label: "Website"
+    #  icon: "fas fa-fw fa-link"
+     # url: "https://HUSTzhaowei.github.io"
+    #- label: "zhihu"
+     # icon: "fab fa-fw fa-zhihu-square"
+     # url: "https://www.zhihu.com/people/jiu-zhe-yang-ba-49/activities"
+    #- label: "GitHub"
+     # icon: "fab fa-fw fa-github"
+      #url: "https://github.com/"
+   zhihu_username:     jiu-zhe-yang-ba-49
+   github_username:    HUSTzhaowei
 footer:
   links:
     - label: "zhihu"
