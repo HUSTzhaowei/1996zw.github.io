@@ -27,7 +27,7 @@ for (i=0, i<N, i++){
 时间局部性：如果一个块被访问了一定次数，接下来很有可能还会被访问。
 空间局部性：如果一个块被访问了一定次数，那么很有可能其周围的块也会被访问。
 # 3.cache 
-![](/img/1.png)
+![](/assets/images/1.png)
 
 上面这个图是cache的概述。
 ## 3.1替换策略
@@ -58,11 +58,11 @@ for (i=0, i<N, i++){
 write through & write no allocate   
 write back & write allocate
 ## 3.3cacheline解释
-![](/img/Image.png)
+![](/assets/images/Image.png)
 
 上图是cache的组织方式，cache由set组成，set由line组成，cacheline由valid bit，tag，data组成，其中data是真正要缓存的内存地址中的数据，而tag是用来搜索cache line的标签。
 内存地址分解如下：
-![](/img/3.png)
+![](/assets/images/3.png)
 
 内存地址被分成了3部分，tag，set index和block offset，这三部分分别用来在cache中定位数据。
 cache根据寻址方式可以分为3类：
@@ -70,7 +70,7 @@ cache根据寻址方式可以分为3类：
 * 组相联（set associate cache）：多个set，每个set中有n个cacheline，就称为n-way set cache
 * 全相连，即只有一个set
 
-![](/img/4.png)
+![](/assets/images/4.png)
 
 Tag 是用来区分不同的 Block 的标记。Valid Bit 是用来区分 一个 Block 里的资料是否为有效的。
 Valid -> 1  Invalid -> 0  
@@ -83,7 +83,7 @@ Cache 的大小的计算公式为：<a href="https://www.codecogs.com/eqnedit.ph
 <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;B=S^{b}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\inline&space;B=S^{b}" title="B=S^{b}" /></a> bytes per cache block (data)
 
 # 4.Inclusion&Exclusion
-![](/img/5.png)
+![](/assets/images/5.png)
 
 其中inclusive cache包含上一级的cache，因此如果由上一级cache的clean写回操作，直接复制就好，不需要写操作，对于exclusive不包含上一级cache的副本，因此不能避免dirty eviction。如果发生LLC miss，inclusive cache需要对LLC和L2同时进行write allocate，保证inclusive，对于exclusive则不需要。
 # 5.cache miss(3C)
