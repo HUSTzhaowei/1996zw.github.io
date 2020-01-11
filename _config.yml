@@ -56,10 +56,10 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "PhD student"
+  name   : "CS PhD student"
   avatar : "/assets/images/me.jpg"
   bio    : "Hi, I'm Wei Zhao, a PhD student in HuaZhong University of Science and Technology(HUST), WuHan, China."
-  #links:
+  links:
     - label: "Email: weiz@hust.edu.cn"
       icon: "fab fa-fw fa-zhihu-square"
       url: 
