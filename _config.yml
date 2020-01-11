@@ -67,7 +67,7 @@ author:
       url: "https://www.zhihu.com/people/jiu-zhe-yang-ba-49/activities"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/HUSTzhaowei"
    
 footer:
   links:
@@ -76,7 +76,7 @@ footer:
       url: "https://www.zhihu.com/people/jiu-zhe-yang-ba-49/activities"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/HUSTzhaowei"
     
 
 defaults:
