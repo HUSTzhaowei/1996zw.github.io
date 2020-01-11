@@ -1,12 +1,10 @@
 ---
-
-title: cache
-
+title: "Cache basics"
 date: 2019-04-02
-
-categories：blog
+categories
+  - blog
 tags:
-    - cache
+  - cache
 ---
 # 1.cache基本概念
 ## 1.1Block
