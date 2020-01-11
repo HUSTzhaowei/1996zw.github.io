@@ -1,13 +1,12 @@
 ---
 layout:     post
-title:      cache笔记
+title:      cache
 subtitle:   cache
 date:       2019-04-02
 author:     赵威
-header-img: img/post-bg-ios9-web.jpg
 catalog: true
 tags:
-    - 体系结构笔记
+    - cache
 ---
 # 1.cache基本概念
 ## 1.1Block
