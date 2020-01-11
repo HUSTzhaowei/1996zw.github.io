@@ -80,7 +80,7 @@ Cache 的大小的计算公式为：<a href="https://www.codecogs.com/eqnedit.ph
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;E=2^{e}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\inline&space;E=2^{e}" title="E=2^{e}" /></a> lines per set
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;B=S^{b}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\inline&space;B=S^{b}" title="B=S^{b}" /></a> bytes per cache block (data)
+<a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;B=2^{b}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\inline&space;B=2^{b}" title="B=2^{b}" /></a> bytes per cache block (data)
 
 # 4.Inclusion&Exclusion
 ![](/assets/images/5.png)
