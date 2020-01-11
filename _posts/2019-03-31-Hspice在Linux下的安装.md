@@ -1,14 +1,13 @@
 ---
-layout:     post
-title:      Hspice在Linux环境下的安装
-subtitle:   Hspice安装
-date:       2019-03-31
-author:     赵威
-header-img: img/post-bg-ios9-web.jpg
-catalog: true
+title: "Install Hspice in Linux OS"
+date: 2019-03-31
+categories:
+  - blog
 tags:
-    - Hspice
----
+  - Hspice
+  - Install
+--- 
+
 # 需要的安装文件
 
 
