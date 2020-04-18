@@ -61,8 +61,8 @@ author:
   bio    : "Hi, I'm Wei Zhao, a PhD student in HuaZhong University of Science and Technology(HUST), WuHan, China. Email: weiz@hust.edu.cn"
   email  : "weiz@hust.edu.cn"
   links:
-    - label: "zhihu"
-      icon: "fab fa-fw fa-zhihu-square"
+    - label: "Zhihu"
+      icon: "fab fa-fw fa-zhihu"
       url: "https://www.zhihu.com/people/jiu-zhe-yang-ba-49/activities"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -70,8 +70,8 @@ author:
    
 footer:
   links:
-    - label: "zhihu"
-      icon: "fab fa-fw fa-twitter-square"
+    - label: "Zhihu"
+      icon: "fab fa-fw fa-zhihu"
       url: "https://www.zhihu.com/people/jiu-zhe-yang-ba-49/activities"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
