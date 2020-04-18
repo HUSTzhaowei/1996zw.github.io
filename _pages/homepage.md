@@ -1,6 +1,5 @@
 ---
 permalink: /homepage/
-layout: page
 title: "Homepage"
 ---
 
