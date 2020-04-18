@@ -1,6 +1,6 @@
 main:
   - title: "Homepage"
-    url: /posts/
+    url: /about/
   - title: "Project"
     url: /categories/
   - title: "Blog"
