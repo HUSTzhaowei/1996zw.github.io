@@ -6,6 +6,7 @@ categories:
 tags:
   - Hspice
   - Install
+toc: true
 --- 
  
 # 需要的安装文件
