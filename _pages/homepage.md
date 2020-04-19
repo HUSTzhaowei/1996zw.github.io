@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Homepage"
 toc: true
 author_profile: ture
 ---
