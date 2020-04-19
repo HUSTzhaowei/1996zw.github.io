@@ -1,7 +1,6 @@
 ---
 permalink: /homepage/
 toc: true
-classes: wide
 author_profile: ture
 ---
 
