@@ -7,13 +7,13 @@ author_profile: ture
 
 # Biography
 
-- Wei Zhao received the BE degree of electronic science and technology in 2018, from Huazhong University of Science and Technology (HUST). Now, he is a PhD student majoring computer architecture in HUST. The main research interest includes non-volatile memory (NVM), processing in memory architecture.
+Wei Zhao received the BE degree of electronic science and technology in 2018, from Huazhong University of Science and Technology (HUST). Now, he is a PhD student majoring computer architecture in HUST. The main research interest includes non-volatile memory (NVM), processing in memory architecture.
 
 # Publications
 
 ## 2020
 
-**Wei Zhao**, Wei Tong, Dan Feng, Jingning Liu, Jie Xu, Bing Wu, Xueliang Wei, Chengning Wang, Weilin Zhu, Bo Liu, "OSwrite: Improving the lifetime of MLC STT-RAM with One-Step write", 36th International Conferenceon Massive Storage Systems and Technology (**MSST**), 2020.
+- **Wei Zhao**, Wei Tong, Dan Feng, Jingning Liu, Jie Xu, Bing Wu, Xueliang Wei, Chengning Wang, Weilin Zhu, Bo Liu, "OSwrite: Improving the lifetime of MLC STT-RAM with One-Step write", 36th International Conferenceon Massive Storage Systems and Technology (**MSST**), 2020.
 
 ## 2019
 
