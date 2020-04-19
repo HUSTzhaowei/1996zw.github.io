@@ -1,5 +1,4 @@
 main:
-    url: /homepage
   - title: "Homepage"
     url: /homepage/
   - title: "Project"
