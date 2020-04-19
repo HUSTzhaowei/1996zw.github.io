@@ -1,6 +1,7 @@
 ---
 permalink: /
 toc: true
+classes: wide
 author_profile: ture
 ---
 # Biography
