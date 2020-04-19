@@ -5,6 +5,7 @@ categories:
   - blog
 tags:
   - git
+toc :true
 ---
  
 # 1.创建SSH key
