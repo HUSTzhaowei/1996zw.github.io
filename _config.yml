@@ -20,7 +20,7 @@ title: Wei Zhao
 email: weiz@hust.edu.cn
 description: >- # this means to ignore newlines until "baseurl:"
   Hi, I'm Wei Zhao, a PhD student in HuaZhong University of Science and Technology(HUST), Wuhan, China.
-Somewhere: Wuhan, China
+
 #twitter_username: username
 #github_username: username
 minimal_mistakes_skin: default
@@ -64,7 +64,7 @@ author:
   avatar : "/assets/images/me.jpg"
   bio    : "Hi, I'm Wei Zhao, a PhD student in HuaZhong University of Science and Technology(HUST), Wuhan, China. Email: weiz@hust.edu.cn"
   email  : "weiz@hust.edu.cn"
-  
+  Somewhere: "Wuhan, China"
   links:
     - label: "Zhihu"
       icon: "fab fa-fw fa-zhihu"
