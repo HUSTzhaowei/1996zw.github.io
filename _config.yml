@@ -61,8 +61,9 @@ plugins:
 author:
   name   : "CS PhD student"
   avatar : "/assets/images/me.jpg"
-  bio    : "Hi, I'm Wei Zhao, a PhD student in HuaZhong University of Science and Technology(HUST), WuHan, China. Email: weiz@hust.edu.cn"
+  bio    : "Hi, I'm Wei Zhao, a PhD student in HuaZhong University of Science and Technology(HUST), Wuhan, China. Email: weiz@hust.edu.cn"
   email  : "weiz@hust.edu.cn"
+  Somewhere: "Wuhan, China"
   links:
     - label: "Zhihu"
       icon: "fab fa-fw fa-zhihu"
