@@ -1,6 +1,7 @@
 ---
 permalink: /
 toc: true
+title: none
 author_profile: ture
 ---
 
