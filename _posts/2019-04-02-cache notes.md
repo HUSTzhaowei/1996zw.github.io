@@ -5,6 +5,7 @@ categories:
   - blog
 tags:
   - cache
+toc: true
 ---
  
 # 1.cache基本概念
