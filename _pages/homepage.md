@@ -12,7 +12,8 @@ Wei Zhao received the BE degree of electronic science and technology in 2018, fr
 
 ## 2020
 
-- **Wei Zhao**, Wei Tong, Dan Feng, Jingning Liu, Jie Xu, Bing Wu, Xueliang Wei, Chengning Wang, Weilin Zhu, Bo Liu, "OSwrite: Improving the lifetime of MLC STT-RAM with One-Step write", 36th International Conferenceon Massive Storage Systems and Technology (**MSST**), 2020.
+- Chengning Wang, Dan Feng, Wei Tong, Jingning Liu, Bing Wu, **Wei Zhao**, Yang Zhang, Yiran Chen, "Improving Write Performance on Cross-Point RRAM Arrays by Leveraging Multidimensional Non-Uniformity of Cell Effective Voltage", Transactions on Computers (**TC**), 2020.
+- **Wei Zhao**, Wei Tong, Dan Feng, Jingning Liu, Jie Xu, Xueliang Wei, Bing Wu, Chengning Wang, Weilin Zhu, Bo Liu, "OSwrite: Improving the lifetime of MLC STT-RAM with One-Step write", 36th International Conferenceon Massive Storage Systems and Technology (**MSST**), 2020.
 
 ## 2019
 
