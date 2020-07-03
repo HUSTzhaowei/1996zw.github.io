@@ -1,5 +1,5 @@
 ---
-permalink: /homepage/
+permalink: /
 toc: true
 title: "  "
 author_profile: ture
