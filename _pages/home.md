@@ -8,7 +8,7 @@ author_profile: ture
 
 # Biography
 
-Wei Zhao received the BE degree of electronic science and technology in 2018, from Huazhong University of Science and Technology (HUST). Now, he is a PhD student majoring computer architecture in HUST (advised by: Dan Feng, Wei Tong). The main research interests include non-volatile memory (NVM), processing in memory architecture and secure main memory.
+Wei Zhao received the BE degree of electronic science and technology in 2018, from Huazhong University of Science and Technology (HUST). Now, he is a Ph.D student majoring computer architecture in HUST (advised by: Dan Feng, Wei Tong). The main research interests include non-volatile memory (NVM), processing in memory architecture and secure main memory.
 
 # Publications
 
