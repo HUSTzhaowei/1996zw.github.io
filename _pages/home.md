@@ -21,7 +21,7 @@ Wei Zhao received the BE degree of electronic science and technology in 2018, fr
 
 ## 2019
 
-- Bing Wu, Dan Feng, Wei Tong, Jingning Liu, Chengning Wang, **Wei Zhao**, Mengye Peng, "[ReRAM Crossbar-Based Analog Computing Architecture for Naive Bayesian Engine][bayes]: ./paper/bayes.pdf ",  IEEE 37th International Conference on Computer Design (**ICCD**), 2019.
+- Bing Wu, Dan Feng, Wei Tong, Jingning Liu, Chengning Wang, **Wei Zhao**, Mengye Peng, "[ReRAM Crossbar-Based Analog Computing Architecture for Naive Bayesian Engine](./paper/bayes.pdf) ",  IEEE 37th International Conference on Computer Design (**ICCD**), 2019.
 - Chengning Wang, Dan Feng, Wei Tong, Jingning Liu, Bing Wu, **Wei Zhao**, Yang Zhang, "Design and Analysis of Address-Adaptive Read Reference Settings for Multilevel Cell Cross-Point Memory Arrays", IEEE Transactions on Electron Devices(**TED**), 2019.
 - Bing Wu, Dan Feng, Wei Tong, Jingning Liu, Chengning Wang, **Wei Zhao**, Yang Zhang, "A low power reconfigurable memory architecture for complementary resistive switches", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems(**TCAD**), 2019.
 - Chengning Wang, Dan Feng, Wei Tong, Jingning Liu, Zheng Li, Jiayi Chang, Yang Zhang, Bing Wu, Jie Xu, **Wei Zhao**, Yilin Li, Ruoxi Ren, "Cross-point resistive memory: Nonideal properties and solutions", ACM Transactions on Design Automation of Electronic Systems (**TODAES**), 2019.
