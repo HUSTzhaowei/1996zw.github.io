@@ -1,6 +1,5 @@
 ---
 permalink: /
-toc: true
 title: "  "
 author_profile: ture
 
@@ -15,10 +14,10 @@ Wei Zhao received the BE degree of electronic science and technology in 2018, fr
 **Wei Zhao**, Wei Tong, Dan Feng, Jingning Liu, Zhangyu Chen, Jie Xu, Bing Wu, Chengning Wang and Bo Liu, "Improving the energy efficiency of STT-MRAM based approximate cache", Design, Automation and Test in Europe Conference  (**DATE**), 2021. (CCF B)
 ## 2020
 
+- **Wei Zhao**, Wei Tong, Dan Feng, Jingning Liu, Jie Xu, Xueliang Wei, Bing Wu, Chengning Wang, Weilin Zhu, Bo Liu, "[OSwrite: Improving the lifetime of MLC STT-RAM with One-Step write](./paper/MSST_13.pdf)", 36th International Conference on Massive Storage Systems and Technology (**MSST**), 2020.(CCF B)
 - Chengning Wang, Dan Feng, Wei Tong, Yu Hua, Jingning Liu, Bing Wu, **Wei Zhao**, Linghao Song, Yang Zhang, Jie Xu, Xueliang Wei, Yiran Chen, "Improving Multilevel Writes on Vertical 3D Cross-Point Resistive Memory", accepted by Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), 2020.
 (CCF A, SCI indexed)
 - Chengning Wang, Dan Feng, Wei Tong, Jingning Liu, Bing Wu, **Wei Zhao**, Yang Zhang, Yiran Chen, "Improving Write Performance on Cross-Point RRAM Arrays by Leveraging Multidimensional Non-Uniformity of Cell Effective Voltage", accepted by Transactions on Computers (**TC**), 2020.(CCF A, SCI indexed)
-- **Wei Zhao**, Wei Tong, Dan Feng, Jingning Liu, Jie Xu, Xueliang Wei, Bing Wu, Chengning Wang, Weilin Zhu, Bo Liu, "[OSwrite: Improving the lifetime of MLC STT-RAM with One-Step write](./paper/MSST_13.pdf)", 36th International Conference on Massive Storage Systems and Technology (**MSST**), 2020.(CCF B)
 
 ## 2019
 
