@@ -1,6 +1,5 @@
 ---
 permalink: /homepage/
-toc: true
 title: "  "
 author_profile: ture
 
@@ -13,7 +12,6 @@ Wei Zhao received the BE degree of electronic science and technology in 2018, fr
 # Publications
 ## 2021
 - **Wei Zhao**, Wei Tong, Dan Feng, Jingning Liu, Zhangyu Chen, Jie Xu, Bing Wu, Chengning Wang and Bo Liu, "Improving the energy efficiency of STT-MRAM based approximate cache", Design, Automation and Test in Europe Conference  (**DATE**), 2021. (CCF B)
-(
 ## 2020
 
 - Chengning Wang, Dan Feng, Wei Tong, Yu Hua, Jingning Liu, Bing Wu, **Wei Zhao**, Linghao Song, Yang Zhang, Jie Xu, Xueliang Wei, Yiran Chen, "Improving Multilevel Writes on Vertical 3D Cross-Point Resistive Memory", accepted by Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), 2020.
