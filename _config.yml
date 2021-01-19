@@ -66,18 +66,19 @@ author:
   email  : "weiz@hust.edu.cn"
   Somewhere: "Wuhan, China"
   links:
-    - label: "Zhihu"
-      icon: "fab fa-fw fa-zhihu"
-      url: "https://www.zhihu.com/people/jiu-zhe-yang-ba-49/activities"
+          #- label: "Zhihu"
+          #icon: "fab fa-fw fa-zhihu"
+          #url: "https://www.zhihu.com/people/jiu-zhe-yang-ba-49/activities"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/HUSTzhaowei"
    
 footer:
   links:
-    - label: "Zhihu"
-      icon: "fab fa-fw fa-zhihu"
-      url: "https://www.zhihu.com/people/jiu-zhe-yang-ba-49/activities"
+       
+          #- label: "Zhihu"
+          #icon: "fab fa-fw fa-zhihu"
+          #url: "https://www.zhihu.com/people/jiu-zhe-yang-ba-49/activities"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/HUSTzhaowei"
