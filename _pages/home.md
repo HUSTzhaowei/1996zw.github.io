@@ -12,7 +12,7 @@ Wei Zhao received the BE degree of electronic science and technology in 2018, fr
 
 # Publications
 ## 2021
-* [DATE 2021](){: .btn .btn--primary} **Wei Zhao**, Wei Tong, Dan Feng, Jingning Liu, Zhangyu Chen, Jie Xu, Bing Wu, Chengning Wang and Bo Liu, "Improving the energy efficiency of STT-MRAM based approximate cache", Design, Automation and Test in Europe Conference  (**DATE**), 2021. (CCF B) [PDF](./paper/appcache.pdf){: .btn .btn--info}
+* [DATE 2021](){: .btn .btn--primary} **Wei Zhao**, Wei Tong, Dan Feng, Jingning Liu, Zhangyu Chen, Jie Xu, Bing Wu, Chengning Wang and Bo Liu, "Improving the energy efficiency of STT-MRAM based approximate cache", Design, Automation and Test in Europe Conference  (**DATE**), 2021. (CCF B) [PDF](./paper/appcache.pdf){: .btn .btn--info} [Slides](./slides/DATE21.pdf){: .btn .btn--success} [Video](./video/presentation.mp4){: .btn .btn--warning}
 
 ## 2020
 
